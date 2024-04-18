@@ -1,5 +1,5 @@
-data
+**/data/
 libdevice.10.bc
 .ipynb_checkpoints
-/project 1/media
+**/media/
 *.pdf
