@@ -1,1 +1,1 @@
-bedroom.py needs to be placed in /data/lsun/bedroom/ directory for DDPM.ipynb to work.
+bedroom.py needs to be placed in /data/data0/lsun/bedroom/ directory for DDPM.ipynb to work.
